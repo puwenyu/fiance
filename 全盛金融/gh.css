@@ -1,0 +1,95 @@
+.clear:after{
+	content:"";
+	display:block;
+	clear:both;
+}
+.gh{
+	width: 1366px;
+	/*height: 1410px;*/
+	margin:0 auto;
+}
+.gh .gh1,.gh .gh3{
+	width:1366px;
+	margin:24px auto 80px;
+	background: #f9f9f9;
+
+}
+.gh .gh1 .gh1img1,.gh .gh3 .gh3img1{
+	float: left;
+	width: 432px;
+	height: 264px;
+}
+.gh1 .gh1r,.gh3 .gh3r{
+	float: right;
+	width: 307px;
+	height: 54px;
+	margin-right: 90px;
+}
+.gh1 .gh1r .span1,.gh3 .gh3r .span1{
+	font-size:16px;
+	font-family: "Microsoft Yahei";
+	color:#a6a4a4;
+	margin-right: 6px;
+	border-right: 5px #e60012 solid;
+}
+.gh1 .gh1r .span2,.gh2 .gh2l .span2,.gh3 .gh3r .span2,.gh4 .gh4l .span2{
+	font-size:24px;
+	font-family: "Microsoft Yahei";
+	color:#000000;
+}
+.gh1 .gh1r2,.gh2 .gh2l2,.gh3 .gh3r2,.gh4 .gh4l2{
+	float: left;
+	width:914px;
+	height: 192px;
+}
+.gh1 .gh1r2 .gh1img2,.gh2 .gh2l2 .gh2img1,.gh3 .gh3r2 .gh3img2,.gh4 .gh4l2 .gh4img1{
+	float: left;
+	margin-left: 48px;
+}
+.gh1 .gh1r2 p,.gh2 .gh2l2 p,.gh3 .gh3r2 p,.gh4 .gh4l2 p{
+	font-size:14px;
+	font-family: "Microsoft Yahei";
+	color:#9b9b9b;
+	margin-left: 74px;
+	margin-right: 100px;
+}
+.gh1 .gh1r2 .p1,.gh2 .gh2l2 .p1,.gh3 .gh3r2 .p1,.gh4 .gh4l2 .p1{
+	margin-top: 26px;
+	margin-bottom: 28px;
+}
+.gh1 .gh1r2 .gh1img3,.gh2 .gh2l2 .gh2img2,.gh3 .gh3r2 .gh3img3,.gh4 .gh4l2 .gh4img2{
+	float: right;
+	margin-right: 64px;
+
+}
+.gh .gh2,.gh .gh4{
+	width:1366px;
+	margin:0 auto;
+	margin-bottom: 80px;
+}
+.gh .gh2 .gh2l,.gh .gh4 .gh4l{
+	float: left;
+	width: 307px;
+	height: 54px;
+	margin-bottom: 20px;
+}
+.gh2 .gh2l .span1,.gh4 .gh4l .span1{
+	font-size:16px;
+	font-family: "Microsoft Yahei";
+	color:#a6a4a4;
+	margin-right: 2px;	
+}
+.gh2 .gh2l2 p,.gh4 .gh4l2 p{
+	margin-right: 60px;
+}
+.gh2 .gh2l2 .gh2img2,.gh4 .gh4l2 .gh4img2{
+	margin-right: 40px;
+}
+.gh2 .gh2l .span2,.gh4 .gh4l .span2{
+border-left: 5px #e60012 solid;
+}
+.gh .gh2 .gh2img3,.gh .gh4 .gh4img3{
+	float: right;
+	width: 432px;
+	height: 264px;
+}

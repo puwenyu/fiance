@@ -1,0 +1,82 @@
+.clear:after{
+	content:"";
+	display:block;
+	clear:both;
+}
+.h-body{
+	width:100%;
+	height: 200px;
+	background: url(fiance/headbg.png) no-repeat;
+	background-position: center bottom;
+	min-width: 1366px;
+	position: relative;
+	left: 0;
+	top:0;
+
+}
+.h-body .img1{
+	width:194px;
+	height:49px;
+	margin-left: 80px;
+	margin-top: 50px;
+	margin-right: 372px;
+	float: left;
+}
+.h-body ul{
+	float: left;
+	list-style: none;
+}
+.h-body li{
+	float: left;
+	font-size:18px;
+	font-family:"宋体";
+	font-weight: bold;
+	color:#231815;
+	margin-top: 63px;
+	word-spacing: 29px;
+	width:100px;
+	line-height: 29px;
+	text-align: center;
+	border-bottom: 2px #787370 solid;
+}
+.h-body li a{
+	text-decoration:none;
+}
+.h-body .li1{
+	border-bottom: 2px #d0000e solid;
+}
+.h-body .li2,.h-body .li3,.h-body .li4,.h-body .li5,.h-body .li6{
+	border-bottom: 2px #787370 solid;
+}
+.h-body .li1:hover,.h-body .li2:hover,.h-body .li3:hover,.h-body .li4:hover,.h-body .li5:hover,.h-body .li6:hover{
+	color:#d0000e;
+	border-color:#d0000e;
+}
+.h-body li a:hover{
+	text-decoration: underline;
+	color:#d0000e;
+}
+.h-content{
+	width:100%;
+	height: 60px;
+	background: #000000;
+	position: absolute;
+	top:141px;
+	left: 0px;
+	opacity: 0.4;
+}
+.h-content a{
+	text-decoration: none;
+	font-size:16px; 
+	color:#cdcdcd;
+	line-height: 60px;
+}
+.h-content .a1{
+	margin-left: 80px;
+}
+.h-content span{
+	color:#cdcdcd;
+}
+.h-content a:hover{
+	text-decoration: underline;
+}

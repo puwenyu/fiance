@@ -1,0 +1,76 @@
+ .bottom-line{
+	width: 1366px;
+	height: 2px;
+	background: url(fiance/xqy4.png);
+	display: block;
+}
+.bottom{
+	width: 1366px;
+	height: 168px;
+	position:relative;
+}
+.bottom img{
+	width:205px;
+	height: 63px;
+	float: left;
+	margin-left: 107px;
+	margin-top: 38px;
+}
+.bottom .bi1{
+	background: url(fiance/redline.png) no-repeat;
+	position: absolute;
+	left:347px;
+	top:44px;
+	width:4px;
+	height: 58px;
+}
+.bottom .bi2{
+	width: 70px;
+	height: 70px;
+	background: url(fiance/ewm.png) no-repeat;
+	position: absolute;
+	right:70px;
+	top:26px;
+}
+.bottom .bottom1{
+	font-size: 16px;
+	font-family: "Microsoft Yahei";
+	color:#a2a3a3;
+	width: 337px;
+	height: 28px;
+	line-height: 28px;
+	position: absolute;
+	right: 151px;
+	top:29px;
+}
+.bottom a{
+	text-decoration: none;
+	color:#a2a3a3;
+}
+.bottom .bottom1 span{
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.bottom .p1{
+	font-size: 16px;
+	font-family: "Microsoft Yahei";
+	color:#a2a3a3;
+	width:431px;
+	height: 24px;
+	position: absolute;
+	right: 149px;
+	top:58px;
+}
+.bottom .p2{
+	font-size: 16px;
+	font-family: "Microsoft Yahei";
+	color:#a2a3a3;
+	width:545px;
+	height: 26px;
+	position: absolute;
+	right: 149px;
+	top:81px;
+}
+.bottom a:hover{
+	text-decoration: underline;
+}

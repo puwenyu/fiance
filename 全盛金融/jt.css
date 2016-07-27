@@ -1,0 +1,262 @@
+.clear:after{
+	content:"";
+	display:block;
+	clear:both;
+}
+.jt{
+	width: 1366px;
+	margin:0 auto;
+}
+.jt .jt1{
+	width:1366px;
+	margin:24px auto 50px;
+	
+}
+.jt .jt1 .jt1div{
+	float: left;
+	width: 432px;
+	height: 300px;
+}
+.jt .jt1 .jt1img1{
+	float: left;
+	width: 275px;
+	height: 350px;
+	/*margin:0 auto;*/ 
+	padding-left: 114px;
+}
+.jt1 .jt1r{
+	float: right;
+	width: 446px;
+	height: 54px;
+	margin-right: 90px;
+}
+.jt1 .jt1r .span1,.jt3 .jt3-1 .span1,.jt5 .jt5-1 .span1{
+	font-size:16px;
+	font-family: "Microsoft Yahei";
+	color:#a6a4a4;
+	margin-right: 6px;
+	border-right: 5px #e60012 solid;
+}
+.jt1 .jt1r .span2,.jt2 .jt2l .span2,.jt3 .jt3-1 .span2,.jt5 .jt5-1 .span2,.jt6 .jt6l .span2{
+	font-size:24px;
+	font-family: "Microsoft Yahei";
+	color:#000000;
+}
+.jt1 .jt1r2,.jt2 .jt2l2{
+	float: left;
+	width:914px;
+}
+.jt1 .jt1r2 .jt1img2,.jt2 .jt2l2 .jt2img1{
+	float: left;
+	margin-left: 48px;
+}
+.jt1 .jt1r2 p,.jt2 .jt2l2 p{
+	font-size:14px;
+	font-family: "Microsoft Yahei";
+	color:#9b9b9b;
+	margin-left: 74px;
+	margin-right: 100px;
+}
+.jt1 .jt1r2 .p1,.jt2 .jt2l2 .p1{
+	margin-top: 26px;
+	margin-bottom: 28px;
+}
+.jt1 .jt1r2  .span4,.jt2 .jt2l2  .span4{
+	display: inline-block;
+	font-size: 12px;
+	font-family: "Microsoft Yahei";
+	color: #9b9b9b;
+	width: 100px;
+	border:1px #9b9b9b solid;
+	border-radius: 15px;
+	margin-bottom:38px;
+	text-align: center;
+	margin:20px 100px 20px 74px;
+}
+.jt1 .jt1r2 a,.jt2 .jt2l2 a{
+	display:block;
+	text-decoration: none;
+}
+.jt1 .jt1r2 .jt1img3{
+	float: right;
+	margin-right: 84px;
+
+}
+.jt .jt2{
+	width:1366px;
+	background: #f9f9f9;
+	margin:0 auto;
+	margin-bottom: 80px;
+}
+.jt .jt2 .jt2l{
+	float: left;
+	width: 307px;
+	height: 54px;
+	padding-left: 110px;
+	margin-bottom: 20px;
+}
+.jt2 .jt2l .span1,.jt6 .jt6l .span1{
+	font-size:16px;
+	font-family: "Microsoft Yahei";
+	color:#a6a4a4;
+	margin-right: 2px;	
+}
+.jt2 .jt2l2 p{
+	margin-right: 60px;
+}
+.jt2 .jt2l2 .jt2img2{
+	margin-right: 40px;
+}
+.jt2 .jt2l .span2,.jt6 .jt6l .span2{
+border-left: 5px #e60012 solid;
+}
+.jt2 .jt2l2 .jt2img2{
+	float: right;
+	margin-right: 64px;
+}
+.jt .jt2 .jt2img3{
+	float: right;
+	width: 350px;
+	height: 337px;
+	margin-right: 100px;
+}
+.jt2 .jt2l2 p{
+	margin-left: 113px;
+}
+.jt2 .jt2l2 .jt2img1{
+	margin-left: 103px;
+}
+.jt2 .jt2l2  .span4{
+	margin-left: 103px;	
+}
+.jt .jt3{
+	width:1366px;
+}
+.jt3 .jt3img1{
+	float: left;
+	margin-left: 113px;
+	width:627px;
+	height: 362px;
+}
+.jt3 .jt3-1{
+	float: right;
+	width: 264px;
+	height: 54px;
+	margin-right: 90px;
+}
+.jt3 .jt3r{
+	float: right;
+	width: 720px;
+	margin-top: 72px;
+	background: #f9f9f9;
+}
+.jt3 .jt3r p{
+	float: left;
+	padding-left: 90px;
+	padding-right: 48px;
+	padding-top: 2px;
+	font-family: "Microsoft Yahei";
+	color:#7d7d7d;
+	margin-top: -291px;
+    background: #f9f9f9;
+   /* margin-bottom: 25px;*/
+}
+.jt3 .jt3r span,.jt4 p span{
+	padding-top: 10px;
+	font-size:14px;
+}
+.jt3 .jt3r .span1,.jt4 p .span1{
+	display: block;
+	font-size:16px;
+	font-family: "Microsoft Yahei";
+	font-weight: bold;
+	color:#9b9b9b;
+	padding-right: 276px;
+}
+.jt4{
+	width: 1366px;
+	margin:0 auto;
+	margin-top: -40px;
+}
+.jt4 p{
+	float: left;
+	font-family: "Microsoft Yahei";
+	color:#7d7d7d;
+	margin-top: -30px;
+	margin-left: 130px;
+}
+.jt4 .jt4img1{
+	float: left;
+	margin-left: 103px;
+}
+.jt4 .jt4img2{
+	float: right;
+	margin-right: 84px;
+
+}
+.jt .jt5{
+	width: 1366px;
+	height: 400px;
+	margin:30px auto 30px;
+	position: relative;
+	left: 0;
+	top: 0;
+}
+.jt5 .jt5-1{
+	position:absolute;
+	right: 71px;
+	top: 34px;
+}
+.jt5 .jt5img1{
+	width:100%;
+	height: 290px;
+	position: absolute;
+	right: 0px;
+	top: 110px;
+}
+.jt5 .jt5img2{
+	width: 384px;
+	height: 248px;
+	position: absolute;
+	left: 87px;
+	top: 34px;
+}
+.jt5 .jt5-2{
+	font-size:14px;
+	font-family: "Microsoft Yahei";
+	color:#6a6969;
+	line-height: 26px;
+	position: absolute;
+	left: 529px;
+	top: 188px;
+}
+.jt6{
+	width:1366px;
+	height: 800px;
+	position: relative;
+	left: 0;
+	top: 0;
+}
+.jt6 .jt6l{
+	position: absolute;
+	left: 72px;
+	top: 44px;
+}
+.jt6 .jt6img1{
+	position: absolute;
+	left: 72px;
+	top: 119px;
+}
+.jt6 .jt6img2{
+	position: absolute;
+	left: 150px;
+	top: 119px;
+	width: 1000px;
+	height: 600px;
+}
+.jt6 .jt6img3{
+	position: absolute;
+	right: 84px;
+	bottom: 60px;
+}
+
